@@ -25,5 +25,5 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Eğitimi kapsamında
 ## License
  [MIT](https://choosealicense.com/licenses/mit/)
  
-## PATİKA
+## Patika
 [Patika.dev](https://www.patika.dev/tr)

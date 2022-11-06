@@ -15,5 +15,6 @@ git clone
  Linux için:
   
   cd kodluyoruzilkrepo 
- /
+           /
+  
   code .

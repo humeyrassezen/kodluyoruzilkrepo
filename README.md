@@ -1,7 +1,9 @@
-# **kodluyoruz İlk Repo**
+# **Kodluyoruz İlk Repo**
 
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-Installation
+### Installation
 ----------------------------------------
+Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 https://github.com/humeyrassezen/kodluyoruzilkrepo.git
+### Usage
